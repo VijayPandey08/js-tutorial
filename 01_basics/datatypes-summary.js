@@ -19,3 +19,8 @@ let myObj = {
 const myFunction = function(){
     console.log("hello world");
 }
+
+/// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// stack (primitive)->copy, heap (non-primitive)->refrence
+
